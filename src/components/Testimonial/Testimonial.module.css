@@ -1,0 +1,8 @@
+.testimonial-slider{
+    padding:8rem 0;
+    background-color: var(--bg-light);
+}
+.testimonial-slider h2{
+    font-size: 24px;
+    color: var(--danger-color);
+}
